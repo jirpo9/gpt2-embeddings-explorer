@@ -31,9 +31,6 @@ gpt2-embeddings-explorer/
 ├── ⚙️ Git a projekt/
 │   ├── .gitignore                 # Ignorované soubory (venv, cache, atd.)
 │   └── LICENSE                    # MIT licence
-│
-└── 🚫 Lokální (není v gitu)/
-    └── venv/                      # Virtuální prostředí Pythonu
 
 
 
