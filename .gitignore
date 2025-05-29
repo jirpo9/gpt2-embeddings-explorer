@@ -161,6 +161,7 @@ data/
 *.json
 *.txt
 !requirements.txt
+!requirements-freeze.txt
 
 # Logs
 logs/
